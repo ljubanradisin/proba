@@ -1,3 +1,3 @@
-# Demo naslov
+# Naslov
 
 Ovo je proba GitHuba!

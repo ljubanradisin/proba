@@ -7,4 +7,4 @@ Ovo je proba GitHuba!
 
 Podnaslov i ovaj tekst su dodane promjene, napravljene lokalno u VS Codu
 
-# Naslov dodan u novom branchu
+# Naslov dodan u novom branchu 
